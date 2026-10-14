@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pratapani01/pratapani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/hero.svg?v=1" alt="Animesh Pratap Singh — Technical Intern, Full Stack Development at Arcoiris Logics, Roorkee, India. Full Stack Developer, Software Developer, Python Developer, AI/ML Engineer." width="100%" />
 
-Here are some ideas to get you started:
+<img src="assets/about-life.svg?v=1" alt="Capabilities: full-stack web apps, AI-powered applications, REST APIs and databases, programming languages, version control. Interests: badminton, AI-powered apps, full-stack products." width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/stack.svg?v=1" alt="Tech stack: Python, C, C++, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, Gemini API, Git, GitHub." width="100%" />
+
+<img src="assets/id-dashboard.svg?v=1" alt="Developer ID card and profile snapshot dated 14 Oct 2026." width="100%" />
+
+</div>
+
+## Projects
+
+| Project | What it is | Link |
+|---|---|---|
+| **GramConnect AI** | AI-powered village complaint-management portal | [Live](https://gram-connect-ai.vercel.app/login) |
+| **Postify** | Social media web application for sharing posts | [Live](https://postify-ani.vercel.app/) |
+| **AI Rasoi** | AI-powered recipe generation application using the Gemini API | — |
+
+<div align="center">
+
+<img src="assets/connect.svg?v=1" alt="Let's connect: GitHub, LinkedIn, Instagram, Codolio, GeeksforGeeks." width="100%" />
+
+[**GitHub**](https://github.com/pratapani01) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/pratapani01/) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/pratap.ani.01/) &nbsp;·&nbsp; [**Codolio**](https://codolio.com/profile/pratapani01) &nbsp;·&nbsp; [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/pratapani01)
+
+</div>
